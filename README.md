@@ -1,4 +1,4 @@
-# Hi, I'm Ashuraj 👋  
+<img width="776" height="261" alt="image" src="https://github.com/user-attachments/assets/4f71f1e0-c839-415b-a352-e7dbf36ce4da" /># Hi, I'm Ashuraj 👋  
 
 💻 A passionate **Full-Stack PHP Developer** with 1.6+ years of experience.  
 I specialize in **Laravel, PHP, and API Development**, and I also work on freelance projects part-time.  
@@ -25,7 +25,7 @@ I specialize in **Laravel, PHP, and API Development**, and I also work on freela
 ---
 
 ### 📊 GitHub Stats
-![Ashuraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
+![Ashuraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshurajSrivastav01&show_icons=true&theme=radical)  
 
 ---
 
