@@ -60,4 +60,4 @@ I specialize in **Laravel, PHP, and RESTful APIs**, and also work on **freelance
 
 ---
 
-⭐️ From [Ashuraj](https://github.com/AshurajSrivastav01)
+⭐️ From [Ashuraj Srivastav](https://github.com/AshurajSrivastav01)
