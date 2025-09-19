@@ -1,4 +1,4 @@
-<img width="776" height="261" alt="image" src="https://github.com/user-attachments/assets/4f71f1e0-c839-415b-a352-e7dbf36ce4da" /># Hi, I'm Ashuraj 👋  
+# Hi, I'm Ashuraj 👋  
 
 💻 A passionate **Full-Stack PHP Developer** with 1.6+ years of experience.  
 I specialize in **Laravel, PHP, and API Development**, and I also work on freelance projects part-time.  
@@ -33,5 +33,5 @@ I specialize in **Laravel, PHP, and API Development**, and I also work on freela
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](YOUR_LINKEDIN_LINK)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github)](YOUR_GITHUB_PROFILE_LINK)  
 
-----
+---
 ⭐️ From [Ashuraj](https://github.com/AshurajSrivastav01)
