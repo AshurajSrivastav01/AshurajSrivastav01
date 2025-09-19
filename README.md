@@ -21,7 +21,9 @@ I specialize in **Laravel, PHP, and RESTful APIs**, and also work on **freelance
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php) 
 ![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat&logo=laravel) 
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql) 
-![API](https://img.shields.io/badge/-RESTful%20APIs-green?style=flat)  
+![API](https://img.shields.io/badge/-RESTful%20APIs-green?style=flat)
+![Moodle](https://img.shields.io/badge/-Moodle-F98012?style=flat&logo=moodle&logoColor=white)  
+![PrestaShop](https://img.shields.io/badge/-PrestaShop-DF0067?style=flat&logo=prestashop&logoColor=white)  
 
 ---
 
