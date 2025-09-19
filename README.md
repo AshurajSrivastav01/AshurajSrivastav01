@@ -1,7 +1,7 @@
-# Hi, I'm Ashuraj 👋  
+# 👋 Hi, I'm Ashuraj  
 
 💻 A passionate **Full-Stack PHP Developer** with 1.6+ years of experience.  
-I specialize in **Laravel, PHP, and RESTful APIs**, and I also take on freelance projects part-time.  
+I specialize in **Laravel, PHP, and RESTful APIs**, and also work on **freelance projects** part-time.  
 
 🌱 Currently learning **React.js** to expand my frontend skills.  
 ⚡ Love solving real-world problems and building impactful web applications.  
@@ -25,11 +25,20 @@ I specialize in **Laravel, PHP, and RESTful APIs**, and I also take on freelance
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Analytics  
 
-![Ashuraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshurajSrivastav01&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshurajSrivastav01&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=AshurajSrivastav01&theme=radical&hide_border=true)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AshurajSrivastav01&show_icons=true&theme=radical" alt="stats" height="160"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshurajSrivastav01&layout=compact&theme=radical" alt="langs" height="160"/>  
+</p>  
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AshurajSrivastav01&theme=radical&hide_border=true" alt="streak" height="160"/>  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AshurajSrivastav01&theme=radical&utcOffset=5" alt="productive time" height="160"/>  
+</p>  
+
+**📈 Total Contributions & Commits:**  
+![Commits Badge](https://badges.pufler.dev/commits/monthly/AshurajSrivastav01)  
 
 ---
 
