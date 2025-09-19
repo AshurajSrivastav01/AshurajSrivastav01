@@ -29,15 +29,15 @@ I specialize in **Laravel, PHP, and RESTful APIs**, and I also take on freelance
 
 ![Ashuraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshurajSrivastav01&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshurajSrivastav01&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=AshurajSrivastav01&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AshurajSrivastav01&theme=radical)  
 
 ---
 
 ## 📌 Featured Projects  
 
-🔹 [Project 1](https://github.com/AshurajSrivastav01/PROJECT1) – Short description  
-🔹 [Project 2](https://github.com/AshurajSrivastav01/PROJECT2) – Short description  
-🔹 [Project 3](https://github.com/AshurajSrivastav01/PROJECT3) – Short description  
+🔹 [Blogify](https://github.com/AshurajSrivastav01/blogify) – A Laravel-based blog platform with categories, tags, comments, and likes.  
+🔹 [Task Manager](https://github.com/AshurajSrivastav01/task-manager) – A simple CRUD-based task manager built with Laravel + Bootstrap.  
+🔹 [Portfolio Website](https://github.com/AshurajSrivastav01/portfolio) – My personal portfolio showcasing projects and skills.  
 
 ---
 
