@@ -34,4 +34,4 @@ I specialize in **Laravel, PHP, and API Development**, and I also work on freela
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github)](YOUR_GITHUB_PROFILE_LINK)  
 
 ---
-⭐️ From [Ashuraj](https://github.com/YOUR_GITHUB_USERNAME)
+⭐️ From [Ashuraj](https://github.com/AshurajSrivastav01)
