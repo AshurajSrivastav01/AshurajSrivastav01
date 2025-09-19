@@ -29,7 +29,7 @@ I specialize in **Laravel, PHP, and RESTful APIs**, and I also take on freelance
 
 ![Ashuraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshurajSrivastav01&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshurajSrivastav01&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AshurajSrivastav01&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=AshurajSrivastav01&theme=radical&hide_border=true)  
 
 ---
 
