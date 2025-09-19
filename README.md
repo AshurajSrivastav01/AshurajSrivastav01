@@ -38,7 +38,7 @@ I specialize in **Laravel, PHP, and RESTful APIs**, and also work on **freelance
 </p>  
 
 **📈 Total Contributions & Commits:**  
-![Commits Badge](https://badges.pufler.dev/commits/monthly/AshurajSrivastav01)  
+![Commits (all)](https://badges.pufler.dev/commits/all/AshurajSrivastav01)
 
 ---
 
