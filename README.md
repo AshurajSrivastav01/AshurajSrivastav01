@@ -39,8 +39,7 @@ I specialize in **Laravel, PHP, and RESTful APIs**, and also work on **freelance
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AshurajSrivastav01&theme=radical&utcOffset=5" alt="productive time" height="160"/>  
 </p>  
 
-**📈 Total Contributions & Commits:**  
-![Commits (all)](https://badges.pufler.dev/commits/all/AshurajSrivastav01)
+**📈 Total Contributions & Commits:**
 
 ---
 
