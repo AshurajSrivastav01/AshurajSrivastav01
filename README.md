@@ -47,7 +47,7 @@ I specialize in **Laravel, PHP, and RESTful APIs**, and also work on **freelance
 
 🔹 [Blogify](https://github.com/AshurajSrivastav01/blogify) – A Laravel-based blog platform with categories, tags, comments, and likes.  
 🔹 [Task Manager](https://github.com/AshurajSrivastav01/task-manager) – A simple CRUD-based task manager built with Laravel + Bootstrap.  
-🔹 [Portfolio Website](https://github.com/AshurajSrivastav01/portfolio) – My personal portfolio showcasing projects and skills.  
+🔹 [Portfolio Website](https://ashurajsrivastav.me/) – My personal portfolio showcasing projects and skills.  
 
 ---
 
