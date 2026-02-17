@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ashuraj  
 
-💻 A passionate **Full-Stack PHP Developer** with 1.6+ years of experience.  
+💻 A passionate **Full-Stack PHP Developer** with 2.4+ years of experience.  
 I specialize in **Laravel, PHP, and RESTful APIs**, and also work on **freelance projects** part-time.  
 
 🌱 Currently learning **React.js** to expand my frontend skills.  
