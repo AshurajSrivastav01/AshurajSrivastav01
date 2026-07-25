@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ashuraj Srivastav
 
-I'm a **Full-Stack Web Developer** with **2+ years of professional experience**, specializing in **Laravel**, **Moodle**, **WordPress Plugin Development**, and **PHP**.
+I'm a **Full-Stack Web Developer** with **5+ years of professional experience**, specializing in **Laravel**, **Moodle**, **WordPress Plugin Development**, and **PHP**.
 
 I help businesses, educational institutions, and startups build **custom web applications**, **Learning Management Systems (LMS)**, **REST APIs**, and **custom plugins** that are scalable, secure, and easy to maintain.
 
