@@ -1,12 +1,9 @@
 # 👋 Hi, I'm Ashuraj  
+👋 Hi, I'm Ashuraj
 
-💻 A passionate **Full-Stack PHP Developer** with 2.4+ years of experience.  
-I specialize in **Laravel, PHP, and RESTful APIs**, and also work on **freelance projects** part-time.  
+I'm a Laravel, Moodle, and WordPress Plugin Developer with 2+ years of professional experience building custom web applications, LMS platforms, REST APIs, and backend solutions.
 
-🌱 Currently learning **React.js** to expand my frontend skills.  
-⚡ Love solving real-world problems and building impactful web applications.  
-
----
+I enjoy helping businesses automate processes, build scalable systems, and solve real-world problems through clean, maintainable code.
 
 ## 🚀 Tech Stack  
 
